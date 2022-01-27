@@ -1,6 +1,4 @@
-.add-service{
-    /* background-color: antiquewhite; */
-}
+
 .add-service form{
     display: flex;
     flex-direction: column;
