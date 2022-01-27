@@ -1,0 +1,8 @@
+[
+    {"id":1,"name":"Oil Changing","price":1200,"description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Id neque, sit voluptate modi dolor quaerat.","img":"https://i.ibb.co/Cs2Nxnh/1.jpg"},
+    {"id":2,"name":"Replace Tire","price":1500,"description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Id neque, sit voluptate modi dolor quaerat.","img":"https://i.ibb.co/WPtTKkk/2.jpg"},
+    {"id":3,"name":"Engine Diagnostic","price":1800,"description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Id neque, sit voluptate modi dolor quaerat.","img":"https://i.ibb.co/Vx02rmV/3.jpg"},
+    {"id":4,"name":"Wash & Glassing","price":2000,"description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Id neque, sit voluptate modi dolor quaerat.","img":"https://i.ibb.co/PWwwyNc/4.jpg"},
+    {"id":5,"name":"Complete Analysis","price":2200,"description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Id neque, sit voluptate modi dolor quaerat.","img":"https://i.ibb.co/N3mKCRd/5.jpg"},
+    {"id":6,"name":"Break Repair","price":2500,"description":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Id neque, sit voluptate modi dolor quaerat.","img":"https://i.ibb.co/prxYdFq/6.jpg"}
+]
