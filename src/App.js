@@ -34,7 +34,7 @@ function App() {
           <PrivateRoute path='/booking/:serviceId'>
             <Booking></Booking>
           </PrivateRoute>
-          <Route path='addService'>
+          <Route path='/addService'>
             <AddService></AddService>
           </Route>
           <Route path="*">
